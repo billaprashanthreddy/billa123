@@ -1,0 +1,36 @@
+26th dec
+
+> override
+>>adding to the file
+
+2 jan (efs)
+
+EFS : Elastic File System 
+--> EFS supports NFSv4.1 file system (Network File System)
+--> EFS supports only Linux OS(ubuntu,federo) 
+--> We need to mount to OS level directory and make an entry in fstab file for perm mount.
+..> create a new security group with port number 2049
+
+
+Free Tier : 5 gb EFS storage
+
+cat /etc/mtab		--> Get entry related to EFS
+
+vim /etc/fstab		--> Add entry there
+
+
+Task : Practice EFS as we discussed.
+
+Task 2 : Mount the EFS, while launching the ec2 instance. 
+
+
+
+
+https://github.com/avizway1/aws-codepipeline-s3-codedeploy-linux
+9347313220
+9949091700
+
+
+ 
+
+
